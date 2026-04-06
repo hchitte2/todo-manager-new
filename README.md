@@ -101,4 +101,4 @@ npm run test:e2e
 | PATCH | `/lists/:id/todos/:todoId` | Toggle todo completion |
 | DELETE | `/lists/:id/todos/:todoId` | Delete todo |
 
-Swagger docs available at **http://localhost:3002/api-docs**
+
